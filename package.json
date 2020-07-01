@@ -1,0 +1,22 @@
+{
+  "name": "carleton-volleyball-club-site",
+  "version": "1.0.0",
+  "description": "A website for the organization and visibility of the Carleton Volleyball club.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shoeyuz/Carleton-Volleyball-Club-Site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shoeyuz/Carleton-Volleyball-Club-Site/issues"
+  },
+  "homepage": "https://github.com/Shoeyuz/Carleton-Volleyball-Club-Site#readme",
+  "dependencies": {
+    "bulma": "^0.9.0"
+  }
+}
